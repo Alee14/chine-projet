@@ -3,3 +3,8 @@ image: gitpod/workspace-full
 tasks:
   - init: yarn install && yarn run build
     command: yarn run start
+
+vscode:
+  extensions:
+    - abusaidm.html-snippets@0.2.1:HrYIjYqOIABbxFB9g9kqXQ==
+    - octref.vetur@0.28.0:bW1RGNnmWYQO43JdJgK34w==
