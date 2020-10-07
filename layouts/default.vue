@@ -3,7 +3,6 @@
     <v-main>
       <v-container>
         <nuxt />
-        <p>Previous | Next</p>
       </v-container>
     </v-main>
   </v-app>
