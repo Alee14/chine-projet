@@ -8,6 +8,7 @@
       <li>Wu</li>
       <li>Anglais</li>
     </ul>
+    <nuxt-link to="/page3">Next Page</nuxt-link>
   </div>
 </template>
 
