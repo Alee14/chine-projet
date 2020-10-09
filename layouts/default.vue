@@ -2,6 +2,9 @@
   <v-app dark>
     <v-main>
       <v-container>
+        <audio autoplay="autoplay">
+          <source src="HKT4_Track05.mp3" />
+        </audio>
         <nuxt />
       </v-container>
     </v-main>
