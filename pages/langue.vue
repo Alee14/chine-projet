@@ -5,10 +5,10 @@
     <p>Voici le langues Chine avais.</p>
     <ul>
       <li>Mandarin</li>
+      <li>Yue (Cantonais)</li>
       <li>Wu</li>
       <li>Anglais</li>
     </ul>
-    <nuxt-link to="/page3">Next Page</nuxt-link>
   </div>
 </template>
 

@@ -2,10 +2,25 @@
   <v-app dark>
     <v-main>
       <v-container>
-        <audio autoplay="autoplay">
-          <source src="HKT4_Track05.mp3" />
-        </audio>
         <nuxt />
+        <footer>
+          <v-row align="center" justify="center">
+            <v-col>
+              <nuxt-link to="about">A propos</nuxt-link>
+              <p>
+                Propulsé par NuxtJS. Sous licence
+                <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"
+                  >GNU General Public License 3.0</a
+                >.
+                <br />
+                <a href="https://github.com/Alee14/chine-projet/">
+                  La code source pour cette projet.</a
+                >
+              </p>
+              <p>&copy; Droits d'Auteur 2020 Andrew Lee.</p>
+            </v-col>
+          </v-row>
+        </footer>
       </v-container>
     </v-main>
   </v-app>
@@ -14,27 +29,7 @@
 <script>
 export default {
   data() {
-    return {
-      clipped: false,
-      drawer: false,
-      fixed: false,
-      items: [
-        {
-          icon: 'mdi-apps',
-          title: 'Welcome',
-          to: '/',
-        },
-        {
-          icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire',
-        },
-      ],
-      miniVariant: false,
-      right: true,
-      rightDrawer: false,
-      title: 'Vuetify.js',
-    }
+    return {}
   },
 }
 </script>
