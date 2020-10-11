@@ -9,7 +9,7 @@
       La Chine est sur le continent d'Asie très proche de la Russie, Mongolie,
       Indie, Khazakstan, Corée, Vietnam, Laos, Taiwan et Japon.
     </p>
-    <!-- TODO: Add world map here-->
+    <img src="~/assets/img/map.jpg" height="40%" width="40%" />
     <h2>La capitale</h2>
     <p>La capitale de la Chine est Pékin (Aussi connu sous le nom Beijing).</p>
     <img

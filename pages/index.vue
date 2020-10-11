@@ -11,6 +11,7 @@
     />
     <h2>Mon nom chinois</h2>
     <p>(李家俊) Lee Gar-Jun</p>
+    <!-- Put the meanings of this name -->
     <img
       src="https://strokeorder.com.tw/bishun-animation/674e-stroke-order.gif"
       height="10%"
