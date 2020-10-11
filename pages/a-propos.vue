@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Sur la site web</h1>
+    <h1>À propos la site web</h1>
     <p>Cette site web est créé pour mon Français projet.</p>
     <h1>Crédits</h1>
     <p>Site web créé par <a href="https://alee14.me">Andrew Lee</a></p>
