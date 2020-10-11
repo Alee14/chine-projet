@@ -11,7 +11,7 @@
     <br />
     <p>HKT4_Track05</p>
     <audio controls>
-      <source src="HKT4_Track05.mp3" />
+      <source src="/HKT4_Track05.mp3" />
       Your browser does not support the audio tag.
     </audio>
     <br />
