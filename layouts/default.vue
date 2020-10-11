@@ -6,7 +6,12 @@
         <footer>
           <v-row align="center" justify="center">
             <v-col>
-              <nuxt-link to="about">A propos</nuxt-link>
+              <nuxt-link to="/">Accueil</nuxt-link>
+              <nuxt-link to="propos-chine">À propos Chine</nuxt-link>
+              <nuxt-link to="culture">Culture</nuxt-link>
+              <nuxt-link to="a-propos">À propos</nuxt-link>
+              <br />
+              <br />
               <p>
                 Propulsé par NuxtJS. Sous licence
                 <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"
