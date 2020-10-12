@@ -8,11 +8,11 @@
             <v-col>
               <v-btn to="/">Accueil</v-btn>
               |
-              <v-btn to="propos-chine">À propos Chine</v-btn>
+              <v-btn to="/propos-chine">À propos Chine</v-btn>
               |
-              <v-btn to="culture">Culture</v-btn>
+              <v-btn to="/culture">Culture</v-btn>
               |
-              <v-btn to="a-propos">À propos</v-btn>
+              <v-btn to="/a-propos">À propos</v-btn>
               <br />
               <br />
               <p>

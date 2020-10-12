@@ -3,20 +3,12 @@
     <h1>La culture de Chine</h1>
     <h2>La nourriture de Chine</h2>
     <img
-      src="https://chinatown.co.uk/wp-content/uploads/2018/06/CE-Dim-Sum-Event_02-min.jpg"
+      src="~/assets/img/CE-Dim-Sum-Event_02-min.jpg"
       width="25%"
       height="25%"
     />
-    <img
-      src="https://steamykitchen.com/wp-content/uploads/2010/03/xiao-long-bao.jpg"
-      width="20%"
-      height="20%"
-    />
-    <img
-      src="http://www.fourpoundsflour.com/wp-content/uploads/2018/02/Sarah_Chinese16.jpg"
-      width="20%"
-      height="20%"
-    />
+    <img src="~/assets/img/xiao-long-bao.jpg" width="20%" height="20%" />
+    <img src="~/assets/img/Sarah_Chinese16.jpg" width="20%" height="20%" />
     <h2>Fêter le Nouvel An</h2>
     <iframe
       :src="'https://www.youtube.com/embed/Bs0GuU0cUtw'"
