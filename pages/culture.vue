@@ -31,7 +31,7 @@
     <p>Mon boulier chez moi.</p>
     <h2>Un jeu de société</h2>
     <img src="~/assets/img/IMG_20201011_175523.jpg" width="30%" height="30%" />
-    <p>Le Jeu de mah-jong.</p>
+    <p>Le Jeu de mahjong.</p>
     <h1>La musique chinoise</h1>
     <p>HKT4_Track05</p>
     <audio controls>
