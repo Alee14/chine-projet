@@ -15,7 +15,8 @@
     <p>Xi Jinping</p>
     <img src="~/assets/img/Xi_Jinping_2019.jpg" width="10%" height="10%" />
     <h2>La population en Chine</h2>
-    <p>Population est 1,440,722,001</p>
+    <p>Population est 1,439,323,776</p>
+    <iframe :src="'/chart.html'" frameborder="0" height="605px" width="100%" />
     <h2>Les langues en Chine</h2>
     <p>Voici les langues chinoises surtout parlées:</p>
     <ul>
