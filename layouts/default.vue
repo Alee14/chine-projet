@@ -21,7 +21,7 @@
                   >GNU General Public License 3.0</a
                 >.
                 <br />
-                <a href="https://github.com/Alee14/chine-projet/">
+                <a href="https://github.com/Alee14/chine-projet/" target="_blank">
                   La code source pour cette projet.</a
                 >
               </p>
